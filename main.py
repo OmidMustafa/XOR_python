@@ -8,7 +8,7 @@ Date: 27-Feb-2021
 # Solving XOR gate problem with Neural Network using keras in Tensorflow 2.2 library.
 Please make sure you have Tensorflow and other some other packages installed if not, you can install tensorflow using the following command:
 
-bash
+ 
 pip install tensorflow
 pip install matplotlib
 pip install numpy
