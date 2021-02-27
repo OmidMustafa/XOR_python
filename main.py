@@ -4,14 +4,12 @@ Author: Arinol Team
 Date: 27-Feb-2021
 """
 
-
-# Solving XOR gate problem with Neural Network using keras in Tensorflow 2.2 library.
-#Please make sure you have Tensorflow and other some other packages installed if not, you can install tensorflow using the following command:
-
- 
-pip install tensorflow
-pip install matplotlib
-pip install numpy
+# %% import the necessary libraries
+# future library supports the standard library reorganization (PEP 3108) via one of several mechanisms,
+# allowing most moved standard library modules to be accessed under their Python 3 names and locations in Python 2.
+from __future__ import division
+from __future__ import print_function
+from __future__ import unicode_literals
 
 """Random library Returns a random floating number between a specific range  i.e return a random number between 0 and 1."""
 import random
